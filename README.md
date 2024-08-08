@@ -1,4 +1,4 @@
-# E2B Demo - Next.js
+# E2B Demo - Python Code Execution
 This demo shows a simple REPL-like Python code execution.
 
 ## 1. Set E2B API key in `.env`
